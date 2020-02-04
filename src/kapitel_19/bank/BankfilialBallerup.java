@@ -26,7 +26,7 @@ public class BankfilialBallerup {
     }
 
     KontoI k = b.findKonto("Jacob");
-    k.overførsel(100);
+    k.overførsel(100, "Welp");
     System.out.println("Jacobs saldo er: " + k.saldo());
   }
 }

@@ -7,14 +7,37 @@ public class Kontoklient
 	public static void main(String[] arg) throws Exception
 	{
 		KontoI k =(KontoI) Naming.lookup("rmi://localhost:1099/kontotjeneste");
-    k.overførsel(100);
-    k.overførsel(50);
+		System.out.println("Kontonavn er " + k.getNavn());
+
+   /* k.overførsel(100, "Sebassan");
+    k.overførsel(50, "Supermand");
 		System.out.println( "Saldo er: "+ k.saldo() );
-		k.overførsel(-150);
+		k.overførsel(-150, "Turbolån.dk");
 		System.out.println( "Saldo ved slut er: "+ k.saldo() );
+		k.haevning(50);
+		System.out.println( "Saldo er :"+ k.saldo() );
+		*/
+
+   	k.overførsel(1, "Jepa");
+		k.overførsel(1, "Jepa");
+		k.overførsel(1, "Jepa");
+		k.overførsel(1, "Jepa");
+		k.overførsel(1, "Jepa");
+		k.overførsel(1, "Jepa");
+		k.overførsel(1, "Jepa");
+		k.overførsel(1, "Jepa");
+		k.overførsel(1, "Jepa");
+		k.overførsel(1, "Jepa");
+		k.overførsel(-10, "Sebastian");
+
+
 		ArrayList<String> bevægelser = k.bevægelser();
 
-		System.out.println( "Bevægelser er: "+ bevægelser );
+		for (String element: bevægelser
+				 ) {
+			System.out.println( bevægelser.indexOf(element) + ": "+ element );
+		}
+
 	}
 }
 /*

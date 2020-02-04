@@ -21,7 +21,7 @@ public class Bankserver {
         continue;
       }
       System.out.println("Yvonne får et stipendium på 1000 kr :-)");
-      yvonne.overførsel(1000);
+      yvonne.overførsel(1000, "Welp");
     }
   }
 }

@@ -7,14 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28fdce36-39d3-4b19-9d4a-5dbb7b8f6606" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test/kapitel_09/KorrektBilletautomatNegativTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kapitel_04/Billetautomat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kapitel_04/Billetautomat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kapitel_09/TjekBilletautomat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kapitel_09/TjekBilletautomat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/kapitel_09/BilletautomatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/kapitel_09/BilletautomatPositivTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/kapitel_09/BilletautomatTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/kapitel_09/BilletautomatTestNegativPenge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/kapitel_09/Boks2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/kapitel_09/TestBoks2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kapitel_09/TjekBilletautomat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kapitel_09/TjekBilletautomatNegativ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kapitel_19/KontoI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kapitel_19/KontoI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kapitel_19/KontoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kapitel_19/KontoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kapitel_19/Kontoklient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kapitel_19/Kontoklient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kapitel_19/bank/BankfilialBallerup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kapitel_19/bank/BankfilialBallerup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kapitel_19/bank/BankfilialLyngby.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kapitel_19/bank/BankfilialLyngby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kapitel_19/bank/Bankserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kapitel_19/bank/Bankserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/kapitel_09/BilletautomatPositivTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/kapitel_09/Boks2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/kapitel_09/KorrektBilletautomatNegativTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,57 +55,78 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Hent/Galgeleg/javabog-oop-master" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.HejVerden">
-    <configuration name="BenytIndtastningsvindue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kapitel_02.BenytIndtastningsvindue" />
+  <component name="RunManager" selected="Application.Kontoklient">
+    <configuration name="Kontoklient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kapitel_19.Kontoklient" />
       <module name="oop-projekt" />
-      <option name="ENABLE_SWING_INSPECTOR" value="true" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kapitel_09.*" />
+          <option name="PATTERN" value="kapitel_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="HejVerden" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kapitel_02.HejVerden" />
+    <configuration name="Kontoserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kapitel_19.Kontoserver" />
       <module name="oop-projekt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kapitel_02.*" />
+          <option name="PATTERN" value="kapitel_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HejVerden" />
-      <item itemvalue="Application.BenytIndtastningsvindue" />
+      <item itemvalue="Application.Kontoserver" />
+      <item itemvalue="Application.Kontoklient" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BenytIndtastningsvindue" />
-        <item itemvalue="Application.HejVerden" />
+        <item itemvalue="Application.Kontoklient" />
+        <item itemvalue="Application.Kontoserver" />
       </list>
     </recent_temporary>
   </component>
@@ -114,8 +140,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523866211915</updated>
+      <workItem from="1580806658157" duration="3027000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Opsætningsfiler - skiftet ned til Java 8 igen" />
@@ -123,6 +153,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Opsætningsfiler - skiftet til Java 11. Fjernet SOAP. Mærket testkode" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="368" y="157" key="#Project_Structure" timestamp="1580806515064">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="368" y="157" key="#Project_Structure/0.23.1536.937@0.23.1536.937" timestamp="1580806515064" />
+    <state x="232" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580809069500">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="232" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1536.937@0.23.1536.937" timestamp="1580809069500" />
+    <state x="581" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1580807012858">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="581" y="208" key="#com.intellij.ide.util.MemberChooser/0.23.1536.937@0.23.1536.937" timestamp="1580807012858" />
     <state x="76" y="95" width="1789" height="861" key="CommitChangelistDialog2" timestamp="1580172520677">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -135,21 +177,25 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="956" y="301" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1580176849022" />
-    <state width="865" height="161" key="GridCell.Tab.0.bottom" timestamp="1580176908929">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="1358" height="237" key="GridCell.Tab.0.bottom" timestamp="1580809152381">
+      <screen x="0" y="23" width="1536" height="937" />
     </state>
+    <state width="1358" height="237" key="GridCell.Tab.0.bottom/0.23.1536.937@0.23.1536.937" timestamp="1580809152381" />
     <state width="865" height="161" key="GridCell.Tab.0.bottom/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1580176908929" />
-    <state width="865" height="161" key="GridCell.Tab.0.center" timestamp="1580176908929">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="1358" height="237" key="GridCell.Tab.0.center" timestamp="1580809152380">
+      <screen x="0" y="23" width="1536" height="937" />
     </state>
+    <state width="1358" height="237" key="GridCell.Tab.0.center/0.23.1536.937@0.23.1536.937" timestamp="1580809152380" />
     <state width="865" height="161" key="GridCell.Tab.0.center/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1580176908929" />
-    <state width="865" height="161" key="GridCell.Tab.0.left" timestamp="1580176908929">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="1358" height="237" key="GridCell.Tab.0.left" timestamp="1580809152379">
+      <screen x="0" y="23" width="1536" height="937" />
     </state>
+    <state width="1358" height="237" key="GridCell.Tab.0.left/0.23.1536.937@0.23.1536.937" timestamp="1580809152379" />
     <state width="865" height="161" key="GridCell.Tab.0.left/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1580176908929" />
-    <state width="865" height="161" key="GridCell.Tab.0.right" timestamp="1580176908929">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="1358" height="237" key="GridCell.Tab.0.right" timestamp="1580809152380">
+      <screen x="0" y="23" width="1536" height="937" />
     </state>
+    <state width="1358" height="237" key="GridCell.Tab.0.right/0.23.1536.937@0.23.1536.937" timestamp="1580809152380" />
     <state width="865" height="161" key="GridCell.Tab.0.right/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1580176908929" />
     <state x="661" y="121" width="1024" height="845" key="SettingsEditor" timestamp="1580171649839">
       <screen x="0" y="27" width="1920" height="1053" />
@@ -159,6 +205,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="617" y="355" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1580172524012" />
+    <state x="445" y="324" key="com.intellij.ide.util.TipDialog" timestamp="1580806657671">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="445" y="324" key="com.intellij.ide.util.TipDialog/0.23.1536.937@0.23.1536.937" timestamp="1580806657671" />
     <state x="331" y="221" width="562" height="796" key="new project wizard" timestamp="1580176876752">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

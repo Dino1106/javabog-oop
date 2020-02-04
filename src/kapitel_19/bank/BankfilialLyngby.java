@@ -23,8 +23,8 @@ public class BankfilialLyngby {
     KontoI bo = b.findKonto("Bo");
     KontoI anne = b.findKonto("Anne");
 
-    bo.overførsel(10);
-    anne.overførsel(-10);  // hvad gør vi denne overførsel fejler?
+    bo.overførsel(10, "Welp");
+    anne.overførsel(-10, "Welp");  // hvad gør vi denne overførsel fejler?
 
     for (String navn : b.hentAlleKontonavne()) {
       KontoI k = b.findKonto(navn);
