@@ -7,19 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28fdce36-39d3-4b19-9d4a-5dbb7b8f6606" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kapitel_09/TjekBilletautomat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kapitel_09/TjekBilletautomatNegativ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kapitel_19/KontoI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kapitel_19/KontoI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kapitel_19/KontoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kapitel_19/KontoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kapitel_19/Kontoklient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kapitel_19/Kontoklient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kapitel_19/bank/BankfilialBallerup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kapitel_19/bank/BankfilialBallerup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kapitel_19/bank/BankfilialLyngby.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kapitel_19/bank/BankfilialLyngby.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kapitel_19/bank/Bankserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kapitel_19/bank/Bankserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/kapitel_09/BilletautomatPositivTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/kapitel_09/Boks2Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/kapitel_09/KorrektBilletautomatNegativTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Hent/Galgeleg/javabog-oop-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -140,7 +128,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523866211915</updated>
-      <workItem from="1580806658157" duration="3027000" />
+      <workItem from="1580806658157" duration="3153000" />
+      <workItem from="1580811628654" duration="1049000" />
     </task>
     <servers />
   </component>
@@ -177,25 +166,25 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="956" y="301" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1580176849022" />
-    <state width="1358" height="237" key="GridCell.Tab.0.bottom" timestamp="1580809152381">
+    <state width="1494" height="250" key="GridCell.Tab.0.bottom" timestamp="1580814757042">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1358" height="237" key="GridCell.Tab.0.bottom/0.23.1536.937@0.23.1536.937" timestamp="1580809152381" />
+    <state width="1494" height="250" key="GridCell.Tab.0.bottom/0.23.1536.937@0.23.1536.937" timestamp="1580814757042" />
     <state width="865" height="161" key="GridCell.Tab.0.bottom/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1580176908929" />
-    <state width="1358" height="237" key="GridCell.Tab.0.center" timestamp="1580809152380">
+    <state width="1494" height="250" key="GridCell.Tab.0.center" timestamp="1580814757042">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1358" height="237" key="GridCell.Tab.0.center/0.23.1536.937@0.23.1536.937" timestamp="1580809152380" />
+    <state width="1494" height="250" key="GridCell.Tab.0.center/0.23.1536.937@0.23.1536.937" timestamp="1580814757042" />
     <state width="865" height="161" key="GridCell.Tab.0.center/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1580176908929" />
-    <state width="1358" height="237" key="GridCell.Tab.0.left" timestamp="1580809152379">
+    <state width="1494" height="250" key="GridCell.Tab.0.left" timestamp="1580814757042">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1358" height="237" key="GridCell.Tab.0.left/0.23.1536.937@0.23.1536.937" timestamp="1580809152379" />
+    <state width="1494" height="250" key="GridCell.Tab.0.left/0.23.1536.937@0.23.1536.937" timestamp="1580814757042" />
     <state width="865" height="161" key="GridCell.Tab.0.left/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1580176908929" />
-    <state width="1358" height="237" key="GridCell.Tab.0.right" timestamp="1580809152380">
+    <state width="1494" height="250" key="GridCell.Tab.0.right" timestamp="1580814757042">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
-    <state width="1358" height="237" key="GridCell.Tab.0.right/0.23.1536.937@0.23.1536.937" timestamp="1580809152380" />
+    <state width="1494" height="250" key="GridCell.Tab.0.right/0.23.1536.937@0.23.1536.937" timestamp="1580814757042" />
     <state width="865" height="161" key="GridCell.Tab.0.right/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1580176908929" />
     <state x="661" y="121" width="1024" height="845" key="SettingsEditor" timestamp="1580171649839">
       <screen x="0" y="27" width="1920" height="1053" />
